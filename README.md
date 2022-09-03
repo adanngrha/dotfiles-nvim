@@ -2,7 +2,7 @@
 
 # Plugins:
 1. [Packer](https://github.com/wbthomason/packer.nvim)
-2. [Lualine}(https://github.com/nvim-lualine/lualine.nvim)
+2. [Lualine](https://github.com/nvim-lualine/lualine.nvim)
 3. [NeoSolarized](https://github.com/svrana/neosolarized.nvim) for the colorscheme.
 4. [lspkind](https://github.com/onsails/lspkind.nvim)
 5. [cmp-buffer](https://github.com/hrsh7th/cmp-buffer)
