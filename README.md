@@ -1,4 +1,4 @@
-# My NVIM setup with Packer
+# My NeoVim setup with Packer
 
 # Plugins:
 1. [Packer](https://github.com/wbthomason/packer.nvim)
